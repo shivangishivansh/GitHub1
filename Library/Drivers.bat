@@ -1,3 +1,3 @@
-pip install pytest
-pip install selenium
+pip3 install pytest
+pip3 install selenium
 
